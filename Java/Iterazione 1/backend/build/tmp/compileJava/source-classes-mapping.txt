@@ -1,0 +1,32 @@
+Amuber/Magazzino.java
+ Amuber.Magazzino
+Amuber/JavaFx/Amuber.java
+ Amuber.JavaFx.Amuber
+Amuber/Users/Commerciante.java
+ Amuber.Users.Commerciante
+Amuber/Carrello.java
+ Amuber.Carrello
+Amuber/JavaFx/ControllerLogin.java
+ Amuber.JavaFx.ControllerLogin
+Amuber/Viste/MD5.java
+ Amuber.Viste.MD5
+Amuber/Viste/IOFileTXT.java
+ Amuber.Viste.IOFileTXT
+Amuber/Users/Cliente.java
+ Amuber.Users.Cliente
+Amuber/Users/User.java
+ Amuber.Users.User
+Amuber/Enums/Categoria.java
+ Amuber.Enums.Categoria
+Amuber/Viste/ICliente.java
+ Amuber.Viste.ICliente
+Amuber/Prodotto.java
+ Amuber.Prodotto
+Amuber/Catalogo.java
+ Amuber.Catalogo
+Amuber/Viste/ICommerciante.java
+ Amuber.Viste.ICommerciante
+Amuber/JavaFx/Controller.java
+ Amuber.JavaFx.Controller
+Amuber/Main.java
+ Amuber.Main

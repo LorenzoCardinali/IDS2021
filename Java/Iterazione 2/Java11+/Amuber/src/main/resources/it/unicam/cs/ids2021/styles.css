@@ -1,0 +1,7 @@
+#text {
+    /*-fx-font-size: 32px;*/
+    /*-fx-font-family: "Arial Black";*/
+    -fx-fill: #ffffff;
+    -fx-effect: innershadow( three-pass-box , rgb(0, 0, 0), 10, 0.0 , 0 , 0 );
+}
+

@@ -1,0 +1,2 @@
+Palla;327f4fada0b9a8cd91427d9bd77d1e3b;10;5.0;Oggetto sferico che rimbalza;Sport;
+Drone;56914d668aa38492e2d8dde0fe25e24d;8;70.99;Coso che vola;Elettronica;

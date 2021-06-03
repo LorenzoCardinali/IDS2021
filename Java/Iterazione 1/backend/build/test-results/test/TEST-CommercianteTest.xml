@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CommercianteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-27T13:56:35" hostname="PC-CARDIF" time="0.02">
+  <properties/>
+  <testcase name="test()" classname="CommercianteTest" time="0.02"/>
+  <system-out><![CDATA[Directory exist for mario.rossi@gmail.com !
+Directory exist for Pencil Hub !
+Directory exist for Coop !
+
+ComID: e152bebdada49257c309f26518099257
+MagID: 6c77f963ac652da027428a8dc810b6c2
+MagID: 5047b9ff60d1d13a8854b1f719127651
+
+Directory exist for giulio.marroni@gmail.com !
+
+ComID: bf0b1af9306dd6590d085e1ac2cee419
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

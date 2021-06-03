@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unicam.cs.ids2021.interaction.IClienteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-27T13:19:56" hostname="PC-Cardif" time="0.26">
+  <properties/>
+  <testcase name="getCarrello()" classname="it.unicam.cs.ids2021.interaction.IClienteTest" time="0.26"/>
+  <system-out><![CDATA[#####################################
+Database connected, ready to go!
+User: admin@_gateway
+#####################################
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

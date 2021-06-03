@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0922eef-ebae-4c06-a1d3-79196bd8002e" name="Default Changelist" comment="pulizia del codice">
+      <change afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/main/java/it/unicam/cs/ids2021/project/core/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/target/classes/amuber.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterazione 2/Amuber/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterazione 2/Amuber/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/main/java/it/unicam/cs/ids2021/project/core/Amuber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/main/java/it/unicam/cs/ids2021/project/core/Amuber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/main/java/it/unicam/cs/ids2021/project/core/amuber.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/main/resources/amuber.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/test/java/it/unicam/cs/ids2021/project/service/MD5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Iterazione 2/Amuber/src/test/java/it/unicam/cs/ids2021/project/service/MD5Test.java" afterDir="false" />
+    </list>
+    <list id="b7d35377-f9bc-422f-b1ab-731cf8b28c23" name="Changes by Cardif" comment="" />
+    <list id="c9dd6d62-dbbf-456b-8f48-b4bdddc2605a" name="Changes by Niccolò" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="backend" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/dac4as/C3" />
+      </set>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectId" id="1lyPpPvBr8pJ7Z6t6rmxh1Mw4AM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Iterazione 2/Amuber" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.121103115" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Amuber.Users" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\test\Amuber\Users\Commerciante\4db542cf0a275d8a0a7f927b3b5e2c58\Ordini" />
+      <recent name="C:\Users\Niccolò\GIT\IDS-C3\C3\Java\backend\src\main\java\Amuber\Interfacce" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\test\Amuber" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\test" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\main\java\Amuber\JavaFx" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\test\Test FXml" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\main\java\test" />
+      <recent name="C:\Users\Cardif\Desktop\Ingegneria del Software\C3\Java\backend\src\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Amuber.Interfacce" />
+      <recent name="Amuber.Users" />
+      <recent name="Amuber" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Intefacce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Amuber">
+    <configuration name="Amuber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amuber.JavaFx.Amuber" />
+      <module name="backend.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amuber.Main" />
+      <module name="backend.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ClienteTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CommercianteTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CommercianteTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IOFileTXTTest" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;IOFileTXTTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IOFileTXTTest.testreadProdotto" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;IOFileTXTTest.testreadProdotto&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IOFileTXTTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IOFileTXTTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOFileTXTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IOFileTXTTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Amuber" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.IOFileTXTTest" />
+      <item itemvalue="Gradle.CommercianteTest.test" />
+      <item itemvalue="Gradle.IOFileTXTTest.testreadProdotto" />
+      <item itemvalue="Gradle.ClienteTest.test" />
+      <item itemvalue="JUnit.IOFileTXTTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Amuber" />
+        <item itemvalue="Gradle.CommercianteTest.test" />
+        <item itemvalue="Gradle.ClienteTest.test" />
+        <item itemvalue="Gradle.IOFileTXTTest.testreadProdotto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0922eef-ebae-4c06-a1d3-79196bd8002e" name="Default Changelist" comment="" />
+      <created>1608566539679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608566539679</updated>
+      <workItem from="1611934435624" duration="2656000" />
+      <workItem from="1612459756833" duration="1390000" />
+      <workItem from="1612461170932" duration="2199000" />
+      <workItem from="1612463641119" duration="91000" />
+      <workItem from="1612536219553" duration="2121000" />
+      <workItem from="1612796210958" duration="2927000" />
+      <workItem from="1612885789350" duration="2399000" />
+      <workItem from="1612971857906" duration="704000" />
+      <workItem from="1613406857538" duration="122000" />
+      <workItem from="1613487474975" duration="9624000" />
+      <workItem from="1613497985581" duration="10000" />
+      <workItem from="1613498672311" duration="67000" />
+      <workItem from="1613498758625" duration="90000" />
+      <workItem from="1613498871228" duration="84000" />
+      <workItem from="1613498969942" duration="15000" />
+      <workItem from="1613500367647" duration="62000" />
+      <workItem from="1613500907006" duration="88000" />
+      <workItem from="1613574975743" duration="22179000" />
+      <workItem from="1613754640504" duration="6520000" />
+      <workItem from="1614000065903" duration="1370000" />
+      <workItem from="1614006356195" duration="962000" />
+      <workItem from="1614610249426" duration="470000" />
+      <workItem from="1614704953373" duration="286000" />
+      <workItem from="1614705272335" duration="59000" />
+      <workItem from="1614810253534" duration="100000" />
+      <workItem from="1614810376506" duration="842000" />
+      <workItem from="1614811253527" duration="134000" />
+      <workItem from="1615390844253" duration="3722000" />
+      <workItem from="1615395061967" duration="1293000" />
+      <workItem from="1615458598558" duration="251000" />
+      <workItem from="1615459485462" duration="5186000" />
+      <workItem from="1615469710065" duration="4114000" />
+      <workItem from="1615476186013" duration="13000" />
+      <workItem from="1615482834796" duration="5595000" />
+      <workItem from="1615492451117" duration="7000" />
+      <workItem from="1615566896737" duration="3893000" />
+      <workItem from="1615666510685" duration="633000" />
+      <workItem from="1615748249889" duration="326000" />
+      <workItem from="1615748945515" duration="214000" />
+      <workItem from="1619189599017" duration="141000" />
+      <workItem from="1619189778134" duration="349000" />
+      <workItem from="1619191071344" duration="3000000" />
+      <workItem from="1619527352208" duration="5723000" />
+      <workItem from="1620202210635" duration="6131000" />
+      <workItem from="1620210655258" duration="595000" />
+      <workItem from="1620213619457" duration="287000" />
+      <workItem from="1620224249707" duration="1250000" />
+      <workItem from="1620295379532" duration="2774000" />
+      <workItem from="1620303427889" duration="475000" />
+      <workItem from="1620306006946" duration="17000" />
+      <workItem from="1620306228273" duration="383000" />
+      <workItem from="1620735679566" duration="600000" />
+      <workItem from="1620815448386" duration="576000" />
+      <workItem from="1620816040262" duration="4199000" />
+      <workItem from="1620914452519" duration="1586000" />
+      <workItem from="1621078105029" duration="2546000" />
+      <workItem from="1621256947620" duration="13000" />
+      <workItem from="1622018668853" duration="824000" />
+    </task>
+    <task id="LOCAL-00001" summary="IL PROGETTO E' CORROTTO&#10;&#10;viene rifatto salvando le classi, che è l'unica cosa buona che è rimasta&#10;(non giocate con gradle)">
+      <created>1608566631297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608566631297</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sviluppo della classe commerciante e test">
+      <created>1608577323523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608577323523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cambio modulo test Junit -&gt; gradle">
+      <created>1608649304628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608649304628</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sviluppo di Magazzino.java&#10;&#10;//TODO ridefinire Arraylist&lt;Prodotto&gt;">
+      <created>1608656769938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608656769938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implementazione metodi di Magazzino e il loro test su MagazzinoTest.java">
+      <created>1609172371614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609172371614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Decimo colloquio&#10;&#10;Aggiunta e modifica ai casi d'uso su VP e inizio delle loro implementazioni in java">
+      <created>1609262015594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609262015594</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Realizzazione caso d'uso SIMULATO login Commerciante&#10;&#10;revisioni delle interfacce utente, in particolar modo di ICommerciante&#10;&#10;realizzazione del metodo getListaCommercianti su IOFileTXT (è stato reso Classe a tutti gli effetti)">
+      <created>1615999110299</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615999110299</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Correzione versione di jfx">
+      <created>1616006027163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616006027163</updated>
+    </task>
+    <task id="LOCAL-00009" summary="implementazione ICommerciante">
+      <created>1617748486348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617748486348</updated>
+    </task>
+    <task id="LOCAL-00010" summary="pulizia del codice">
+      <created>1618494801619</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618494801619</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="IL PROGETTO E' CORROTTO&#10;&#10;viene rifatto salvando le classi, che è l'unica cosa buona che è rimasta&#10;(non giocate con gradle)" />
+    <MESSAGE value="Sviluppo della classe commerciante e test" />
+    <MESSAGE value="Cambio modulo test Junit -&gt; gradle" />
+    <MESSAGE value="sviluppo di Magazzino.java&#10;&#10;//TODO ridefinire Arraylist&lt;Prodotto&gt;" />
+    <MESSAGE value="Implementazione metodi di Magazzino e il loro test su MagazzinoTest.java" />
+    <MESSAGE value="Decimo colloquio&#10;&#10;Aggiunta e modifica ai casi d'uso su VP e inizio delle loro implementazioni in java" />
+    <MESSAGE value="Realizzazione caso d'uso SIMULATO login Commerciante&#10;&#10;revisioni delle interfacce utente, in particolar modo di ICommerciante&#10;&#10;realizzazione del metodo getListaCommercianti su IOFileTXT (è stato reso Classe a tutti gli effetti)" />
+    <MESSAGE value="Correzione versione di jfx" />
+    <MESSAGE value="implementazione ICommerciante" />
+    <MESSAGE value="pulizia del codice" />
+    <option name="LAST_COMMIT_MESSAGE" value="pulizia del codice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.NotSerializableException" package="java.io" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Amuber/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
