@@ -1,5 +1,6 @@
 package it.unicam.cs.ids2021;
 
+import it.unicam.cs.ids2021.service.DBManager;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -16,13 +17,15 @@ public class Amuber extends Application {
         String javafxVersion = System.getProperty("javafx.version");
         primaryStage.setTitle("Amuber [Java " + javaVersion + "] - [JavaFx " + javafxVersion + "]");
 
-        // Funziona solo avviando con Maven
-        //Parent root = FXMLLoader.load(getClass().getResource("amuber.fxml"));
-        //Scene scene = new Scene(root);
-        //scene.getStylesheets().add(getClass().getResource("styles.css").toExternalForm());
+        DBManager.getIstance();
 
-        Scene scene = new Scene(FXMLLoader.load(new File("src/main/resources/it/unicam/cs/ids2021/amuber.fxml").toURI().toURL()));
-        scene.getStylesheets().add(new File("src/main/resources/it/unicam/cs/ids2021/styles.css").toURI().toURL().toString());
+        // Funziona solo avviando con Maven
+        Parent root = FXMLLoader.load(getClass().getResource("amuber.fxml"));
+        Scene scene = new Scene(root);
+        scene.getStylesheets().add(getClass().getResource("styles.css").toExternalForm());
+
+        //Scene scene = new Scene(FXMLLoader.load(new File("/resources/it/unicam/cs/ids2021/amuber.fxml").toURI().toURL()));
+        //scene.getStylesheets().add(new File("it/unicam/cs/ids2021/styles.css").toURI().toURL().toString());
         primaryStage.setScene(scene);
         primaryStage.setResizable(false);
         primaryStage.show();

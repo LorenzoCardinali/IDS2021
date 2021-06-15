@@ -8,7 +8,6 @@ package it.unicam.cs.ids2021.project.enums;
  * @Veicolo#Pesante: Furgone, Camion, Trattori Stradali e superiori
  */
 public enum Veicolo {
-    Null,
     Leggero,
     Medio,
     Pesante

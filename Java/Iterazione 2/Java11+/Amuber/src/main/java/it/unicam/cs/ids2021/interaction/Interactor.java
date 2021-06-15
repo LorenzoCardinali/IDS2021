@@ -14,7 +14,7 @@ public class Interactor {
     private final ICliente iCliente = new ICliente();
     private final ICommerciante iCommerciante = new ICommerciante();
     private final ICorriere iCorriere = new ICorriere();
-    private final DBManager manager = DBManager.getIstance();
+    private DBManager manager = DBManager.getIstance();
 
     public ComboBox<Commerciante> lista_commercianti;
     public Button select_commerciante;

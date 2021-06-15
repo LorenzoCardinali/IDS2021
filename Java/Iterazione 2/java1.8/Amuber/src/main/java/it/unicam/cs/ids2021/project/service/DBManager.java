@@ -16,9 +16,10 @@ import java.util.Set;
 public class DBManager {
 
     private static DBManager istance;
-    final String url = "jdbc:mysql://crivelliserver.ddns.net:3306/amuber";
-    final String user = "admin";
-    final String password = "amuber99";
+    //final String url = "jdbc:mysql://crivelliserver.ddns.net:3306/amuber";
+    final String url = "jdbc:mysql://localhost:3306/amuber";
+    final String user = "Admin";
+    final String password = "Amuber_0610";
     private Connection connection;
     private Statement statement;
 

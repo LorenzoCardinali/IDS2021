@@ -11,7 +11,7 @@ public class Corriere extends User {
     public Corriere(String nome, String cognome, String email, String recapito) {
         super(nome, cognome, email, recapito);
         this.stato = Status.Inactive;
-        this.veicolo = Veicolo.Null;
+        this.veicolo = null;
     }
 
     public Status getStato() {

@@ -15,7 +15,7 @@ import java.util.Set;
 public class DBManager {
 
     private static DBManager istance;
-    final String url = "jdbc:mysql://crivelliserver.ddns.net:3306/amuber";
+    final String url = "jdbc:mysql://localhost:3306/amuber"; //"jdbc:mysql://crivelliserver.ddns.net:3306/amuber";
     final String user = "admin";
     final String password = "amuber99";
     private Connection connection;
@@ -85,7 +85,7 @@ public class DBManager {
     /**
      * String creator
      */
-    public String insertInto(String tabella,  String... valori) {
+    public String insertInto(String tabella, String... valori) {
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("INSERT INTO amuber.").append(tabella).append(" (");
 
@@ -109,7 +109,7 @@ public class DBManager {
     /**
      * Cliente
      */
-    public void addCliente( Cliente cliente) {
+    public void addCliente(Cliente cliente) {
         this.executeQuery(this.insertInto("Cliente",
                 "idCliente", "nome", "cognome", "email", "recapito", "indirizzo",
                 cliente.getHashID(), cliente.getNome(), cliente.getCognome(), cliente.getEmail(), cliente.getRecapito(), cliente.getIndirizzo())
@@ -151,7 +151,7 @@ public class DBManager {
     /**
      * Commercinate
      */
-    public void addCommerciante( Commerciante commerciante) {
+    public void addCommerciante(Commerciante commerciante) {
         this.executeQuery(this.insertInto("Commerciante",
                 "idCommerciante", "nome", "cognome", "email", "recapito",
                 commerciante.getHashID(), commerciante.getNome(), commerciante.getCognome(), commerciante.getEmail(), commerciante.getRecapito())
@@ -209,7 +209,7 @@ public class DBManager {
     /**
      * Magazzino
      */
-    public void addMagazzino( Magazzino magazzino) {
+    public void addMagazzino(Magazzino magazzino) {
         this.executeQuery(this.insertInto("Magazzino",
                 "idMagazzino", "nome", "indirizzo", "idCommerciante",
                 magazzino.getHashID(), magazzino.getNome(), magazzino.getIndirizzo(), magazzino.getProprietario().getHashID())
@@ -240,7 +240,7 @@ public class DBManager {
         return magazzino;
     }
 
-    public Set<Magazzino> getMagazzini( Commerciante commerciante) {
+    public Set<Magazzino> getMagazzini(Commerciante commerciante) {
         connectDB();
 
         String sql = "SELECT * FROM amuber.Magazzino WHERE idCommerciante = '"
@@ -267,7 +267,7 @@ public class DBManager {
     /**
      * Prodotto
      */
-    public void addProddotto( Prodotto prodotto) {
+    public void addProddotto(Prodotto prodotto) {
         this.executeQuery("INSERT INTO amuber.Prodotto (idProdotto, nome, marca, categoria, disponibilita, prezzo, idMagazzino, descrizione) VALUES ('"
                 + prodotto.getHashID() + "', '"
                 + prodotto.getNome() + "', '"
@@ -308,7 +308,7 @@ public class DBManager {
         return prodotto;
     }
 
-    public Set<Prodotto> getProdotti( Magazzino magazzino) {
+    public Set<Prodotto> getProdotti(Magazzino magazzino) {
         connectDB();
 
         String sql = "SELECT * FROM amuber.Prodotto WHERE idMagazzino = '"
@@ -340,7 +340,7 @@ public class DBManager {
      * Ordine
      */
     //TODO sistemare
-    public void addOrdine( Ordine ordine) {
+    public void addOrdine(Ordine ordine) {
         this.executeQuery("INSERT INTO amuber.Ordine (idOrdine, idCliente, totale, statoOrdine) VALUES ('"
                 + ordine.getHashID() + "', '"
                 + ordine.getCliente().getHashID() + "', '"
@@ -369,7 +369,7 @@ public class DBManager {
     /**
      * Carrello
      */
-    public Carrello getCarrello( Cliente cliente) {
+    public Carrello getCarrello(Cliente cliente) {
         connectDB();
 
         String sql = "SELECT * FROM amuber.Carrello WHERE idCliente = '"

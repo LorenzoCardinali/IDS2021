@@ -1,6 +1,7 @@
 package it.unicam.cs.ids2021.project.storage;
 
 import it.unicam.cs.ids2021.project.enums.StatoOrdine;
+import it.unicam.cs.ids2021.project.enums.TipoOrdine;
 import it.unicam.cs.ids2021.project.service.MD5;
 import it.unicam.cs.ids2021.project.users.Cliente;
 import it.unicam.cs.ids2021.project.users.Corriere;
@@ -17,6 +18,7 @@ public class Ordine {
     private final HashMap<String, Integer> prodotti = new HashMap<>();
     private final Double totale;
     private StatoOrdine stato;
+    private TipoOrdine tipologia;
     private final String hashID;
 
     public Ordine(Cliente cliente, Magazzino magazzino, HashMap<Prodotto, Integer> prodotti, Double totale) {
@@ -26,6 +28,7 @@ public class Ordine {
         prodotti.keySet().forEach(prodotto ->
                 this.prodotti.put(prodotto.getHashID(), prodotti.get(prodotto)));
         this.totale = totale;
+        this.tipologia = null;
         this.stato = StatoOrdine.DaPagare;
         this.hashID = MD5.getHash2(cliente.getHashID(), magazzino.getHashID(), LocalDateTime.now().toString());
     }
